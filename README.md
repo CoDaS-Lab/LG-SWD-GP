@@ -1,7 +1,7 @@
 # Latent Grid Standing Wave Decomposition Gaussian Process (LG-SWD-GP)
 
 Reference: [Standing Wave Decomposition Gaussian Process.](https://arxiv.org/abs/1803.03666)
-Lu, C.-K., Yang, S. C.-H. & Shafto, P. Phys. Rev. E (2018).
+Lu, C.-K., Yang, S. C.-H. & Shafto, P. Phys. Rev. E 98, 032303 (2018).
 
 ### To reproduce Figures 7, 8, and 9 in the above paper:
 * Download the repo.
